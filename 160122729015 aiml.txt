@@ -1,0 +1,15 @@
+COSC Git Workshop Contents:
+1. Git and GitHub
+2. Installation
+3. Launching Git
+- `git config`
+4. Linking GitHub and VS Code
+5. Git Commands
+- `add`
+- `commit`
+- `push`
+- `status`
+- `branch`
+- `pull`
+- `clone`
+6. Forking
